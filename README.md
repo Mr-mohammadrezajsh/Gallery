@@ -6,5 +6,5 @@
   src="/screen/image.png"
   alt="Screen Shot "
   title="Screen Shot "
-  style="display: inline-block; margin: 0 auto; height: 500px; width: 500px">
+  style="display: inline-block; margin: 0 auto; height: 500px; width: 800px">
   
